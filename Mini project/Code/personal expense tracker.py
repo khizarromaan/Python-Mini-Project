@@ -1,4 +1,3 @@
-# expense_tracker.py
 
 expenses = []
 monthly_budget = 0.0
