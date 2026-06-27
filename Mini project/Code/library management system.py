@@ -1,6 +1,3 @@
-# library_management.py
-
-# Master dictionary: ISBN -> {title, author, available, borrower}
 library = {}
 
 while True:
